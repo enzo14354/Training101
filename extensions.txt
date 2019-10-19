@@ -1,0 +1,37 @@
+naming convention of function
+
+1 camel case - it is a function
+2 snake case - if it is a class or an object
+3 underscore case - if it is a variable name or object instance
+
+
+class 	- will return an object
+	- is a blueprint
+	- template of an object
+
+	- property of the class (wheels,color,brand,speed limit)
+		- constructor is the main function
+	- behavior of the class (start up, run, stop)
+
+	- object instance
+		let ferrari = car ();
+		let ceres = car ();
+
+	Access method
+	- protected
+	- private
+	- public
+
+object	- what the class return
+	- 	
+funtion - out side the class.
+method 	- if it is inside the class.
+
+4 types of Object Oriented Programming
+	- inheritance 
+	- abstraction
+	- incapsulation
+	- polymorphysim
+
+
+
